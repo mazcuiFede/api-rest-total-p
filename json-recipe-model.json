@@ -1,0 +1,44 @@
+{
+    "name": Cranberry and Apple Stuffed Acorn Squash Recipe
+    "steps":Cut squash in half, remove seeds. Place squash in baking dish, cut-side down. Pour 1/4-inch water into dish. Bake for 30 minutes at 350 degrees F. In large bowl, combine remaining ingredients. Remove squash from oven, fill with mix. Bake for 30-40 more minutes, until squash tender. Enjoy!",
+    "imageURL": "http://elanaspantry.com/wp-content/uploads/2008/10/acorn_squash_with_cranberry.jpg",
+	"calification": [],
+    "ingredients": [
+		{
+			"unit": "units",
+			"quantity": 2,
+			"name": "acorn squash",
+			"type": "Produce"
+		},
+		{
+			"unit": "units",
+			"quantity": 1,
+			"name": "boiling water",
+			"type": "Drinks"
+		},
+		{
+			"unit": "units",
+			"quantity": 2,
+			"name": "apples chopped into 1.4 inch pieces",
+			"type": "Produce"
+		},
+		{
+			"unit": "cup",
+			"quantity": 0.5,
+			"name": "dried cranberries",
+			"type": "Produce"
+		},
+		{
+			"unit": "teaspoon",
+			"quantity": 1,
+			"name": "cinnamon",
+			"type": "Baking"
+		},
+		{
+			"unit": "tablespoons",
+			"quantity": 2,
+			"name": "melted butter",
+			"type": "Dairy"
+		}
+    ]
+  }

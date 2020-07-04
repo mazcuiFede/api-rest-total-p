@@ -1,0 +1,28 @@
+{
+  "name": "api-rest",
+  "version": "1.0.0",
+  "description": "Nodejs proyect for total performance. ",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mazcuiFede/total-performance.git"
+  },
+  "author": "Matias Azcui",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mazcuiFede/total-performance/issues"
+  },
+  "homepage": "https://github.com/mazcuiFede/total-performance#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
