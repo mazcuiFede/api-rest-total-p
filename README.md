@@ -1,4 +1,4 @@
-# api-rest-total-p
+# Api Rest - Total Perform
 
 This repository have the code of the backend of this app: https://recipe-app-total-perform.herokuapp.com/
 
